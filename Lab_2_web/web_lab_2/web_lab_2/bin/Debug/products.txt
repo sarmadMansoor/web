@@ -1,0 +1,3 @@
+1,Name : 12,Price: 34.3,Warranty Period: 12
+2,Name : sar,Price: 23.2,Warranty Period: 23
+34,Name: Apple,Price: 23.3,Date : 12/12/2021

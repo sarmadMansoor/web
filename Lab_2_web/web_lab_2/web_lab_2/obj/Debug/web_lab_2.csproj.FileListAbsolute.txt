@@ -1,0 +1,8 @@
+D:\repos\web_lab_2\web_lab_2\obj\Debug\web_lab_2.csproj.AssemblyReference.cache
+D:\repos\web_lab_2\web_lab_2\obj\Debug\web_lab_2.csproj.SuggestedBindingRedirects.cache
+D:\repos\web_lab_2\web_lab_2\obj\Debug\web_lab_2.csproj.CoreCompileInputs.cache
+D:\repos\web_lab_2\web_lab_2\bin\Debug\web_lab_2.exe.config
+D:\repos\web_lab_2\web_lab_2\bin\Debug\web_lab_2.exe
+D:\repos\web_lab_2\web_lab_2\bin\Debug\web_lab_2.pdb
+D:\repos\web_lab_2\web_lab_2\obj\Debug\web_lab_2.exe
+D:\repos\web_lab_2\web_lab_2\obj\Debug\web_lab_2.pdb
